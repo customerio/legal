@@ -16,7 +16,7 @@ In the course of providing user and usage data analytics Services to our custome
 
 Customer.io also collects non-personally identifiable information about you from Customer Sites you visit, including the following types of data:
 
-Standard Data – common information found in every communication sent over the internet. Using this information, Customer.io can infer information such as browser type (e.g., Netscape or Internet Explorer); operating system (e.g,. Macintosh or Windows); browser language (e.g., Java or Unix); and internet service provider (e.g., MindSpring or AOL)
+Standard Data – common information found in every communication sent over the internet. Using this information, Customer.io can infer information such as browser type (e.g., Chrome or Internet Explorer); operating system (e.g,. Macintosh or Windows); browser language (e.g., Java or Unix); and internet service provider (e.g., Verizon Fios or AOL)
 
 Clickstream Data – Customer.io can infer how you use our Customer Sites and various pages on the internet.
 
@@ -72,15 +72,15 @@ Most browsers allow you to prevent the browser from accepting new cookies, to be
 
 This section describes our policies for sharing PII received from either Customer Site end users or Customer.io end users or customers.
 
-We neither rent nor sell PII to anyone. Except as provided for in any additional agreement you enter into with Customer.io, we share your personal information only as described below:
+We neither rent nor sell PII to anyone. Except as provided for in any additional agreement you enter into with Customer.io, we maintain the confidentiality of your PII and share your PII only as described below:
 
 ### Affiliated Businesses We Do Not Control
 
-Customer.io may provide services or sell products jointly with affiliated businesses.  We will share customer information that is related to such transactions with those affiliated businesses. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction. Customer.io may share aggregated demographic information with customers in connection with the provision of the Services.
+Customer.io may provide services or sell products jointly with affiliated businesses.  We will share customer information that is related to such transactions with those affiliated businesses. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use PII for any purpose other than for an authorized transaction. Customer.io may share aggregated demographic information with customers in connection with the provision of the Services.
 
 ### Agents
 
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products and services. Examples include billing, processing payments, providing marketing assistance, and providing customer service.  Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, Customer.io’s agents do not have any right to use PII collected from our Site and Services beyond what is necessary to assist us.
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products and services. Examples include billing, processing payments, providing marketing assistance, and providing customer service.  Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, Customer.io does not share, and Customer.io’s agents do not have any right to use PII collected from our Site and Services beyond what is necessary to assist us.
 
 Financial and billing information is collected through the Site and Services directly by a third-party intermediary and is used solely to bill for the Services. Customer.io does not receive your billing information from this third-party intermediary, who may store, retain, and use the information provided solely for the purpose of credit card processing. 
  
@@ -98,7 +98,7 @@ We may release PII when we in our sole discretion believe in good faith that rel
 
 ### With Your Consent
 
-Except as set forth above, you will be notified when your personal information may be shared with third parties. 
+Except as set forth above, we will not share PII collected from Customer.io customers or end users with third parties without your consent. 
 
 ## Additional Policies
 
@@ -138,10 +138,10 @@ The Site and Services may permit you to link to other websites on the Internet, 
 
 ### Changes to this Privacy Policy
 
-Customer.io may amend this Privacy Policy.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes to our privacy policy, we will notify you by posting an announcement on our Site.  
+Customer.io may amend this Privacy Policy.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes to our privacy policy, we will notify you by sending you an email thirty (30) days before the changes take effect and by posting a notice on customer dashboards on the Site.  
 
 ### Questions or Concerns
 
 If you have any questions or concerns regarding privacy at Customer.io, please send us a detailed message to [privacy@customer.io](mailto:privacy@customer.io) or to Peaberry Software Inc. at 244 Fifth Avenue, Suite # 2238, New York, NY 10001.  Your privacy is important to us and we will make every effort to resolve your concerns.  
 
-Last Updated: January 29, 2013
+Last Updated: March 11, 2014
