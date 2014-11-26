@@ -95,4 +95,4 @@ Peaberry Software Inc., 921 SW Washington St, Suite #820, Portland, OR 97205, At
 
 Copyright {{ 'now' | date: "%Y" }} Peaberry Software Inc.  All rights reserved.
 
-Last Updated: December 3rd, 2013
+Last Updated: November 26, 2014
