@@ -120,13 +120,7 @@ For users outside the United States, please note that any data or PII you enter 
 
 ### US-EU Safe Harbor and US-Swiss Safe Harbor
 
-Peaberry Software, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Peaberry Software Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Peaberry Software Inc.'s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/])
-
-### Privacy Complaints by European Union And Swiss Citizens
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Peaberry Software Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Peaberry Software Inc. at [privacy@customer.io](mailto:privacy@customer.io) or by mail at Peaberry Software Inc., 244 Fifth Avenue, Suite #2238, New York, NY 10001 USA.
-
-Peaberry Software Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Peaberry Software Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+A [European Court of Justice ruling](http://static.ow.ly/docs/schrems_3OHQ.pdf) invalidated the previous safe-harbor agreement that facilitated data transfer between European and US companies. As an alternative, you may request a data processing agreement using the [Standard Contractual Clauses](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:EN:PDF). Please [fill in this form to request a data processing agreement](http://cust.io/cio-data-processing).
 
 ### Use of Customer.io by Children
 
@@ -144,4 +138,4 @@ Customer.io may amend this Privacy Policy.  Use of information we collect now is
 
 If you have any questions or concerns regarding privacy at Customer.io, please send us a detailed message to [privacy@customer.io](mailto:privacy@customer.io) or to Peaberry Software Inc. at 921 SW Washington St, Suite # 820, Portland, OR 97205.  Your privacy is important to us and we will make every effort to resolve your concerns.  
 
-Last Updated: November 26, 2014
+Last Updated: October 18, 2015
