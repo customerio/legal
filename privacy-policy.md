@@ -120,7 +120,7 @@ For users outside the United States, please note that any data or PII you enter 
 
 ### US-EU Safe Harbor and US-Swiss Safe Harbor
 
-A [European Court of Justice ruling](http://static.ow.ly/docs/schrems_3OHQ.pdf) invalidated the previous safe-harbor agreement that facilitated data transfer between European and US companies. As an alternative, you may request a data processing agreement using the [Standard Contractual Clauses](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:EN:PDF). Please [fill in this form to request a data processing agreement](http://cust.io/cio-data-processing).
+A [European Court of Justice ruling](http://static.ow.ly/docs/schrems_3OHQ.pdf) invalidated the previous safe-harbor agreement that facilitated data transfer between European and US companies. As an alternative, you may request a data processing agreement using the [Standard Contractual Clauses](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:EN:PDF). Please [fill in this form to request a data processing agreement](http://cust.io/eu-data-processing).
 
 ### Use of Customer.io by Children
 
