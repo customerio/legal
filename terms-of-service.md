@@ -5,7 +5,7 @@ description: "Customer.io terms of service"
 ---
 
 
-Last revised on April 13, 2018, effective as of May 15, 2018
+Last revised on April 13, 2018, effective as of May 17, 2018
 
 Please read these terms and conditions (“Agreement”) carefully. By signing up for an account with Peaberry Software Inc. (“Customer.io”), or using the Customer.io website (the “Site”), email messaging and analytics technology, and other services (collectively, the “Services”), you agree to the terms and conditions of this Agreement. 
 
