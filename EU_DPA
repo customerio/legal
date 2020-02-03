@@ -1,8 +1,8 @@
-EU Data Processing Addendum
+#### EU Data Processing Addendum
 
 This Data Processing Addendum ("DPA") between Peaberry Software Inc. ("Customer.io") and Company forms part of the Agreement and is effective as of the Effective Date. 
 
-1. Definitions 
+#### 1. Definitions 
 
 All capitalized terms not defined in this DPA will have the meanings set forth in the Agreement. Terms used but not defined in this DPA, such as “controller,” “data subject,” “personal data,” “processing,” and “processor” will have the same meaning as set forth in the EU Data Protection Law.
 
@@ -28,7 +28,7 @@ All capitalized terms not defined in this DPA will have the meanings set forth i
 
 “Subprocessors” means the other processors that are used by Customer.io to process Personal Data. 
 
-2. Relationship with the Agreement 
+#### 2. Relationship with the Agreement 
 
 2.1 The parties agree that the DPA shall replace any existing data processing addendum the parties may have previously entered into in connection with the Services. 
 
@@ -42,13 +42,13 @@ All capitalized terms not defined in this DPA will have the meanings set forth i
 
 2.6 This DPA shall be governed by and construed in accordance with governing law and jurisdiction provisions in the Agreement, unless required otherwise by applicable Data Protection Laws. 
 
-3. Scope and Applicability of this DPA 
+#### 3. Scope and Applicability of this DPA 
 
 3.1 This DPA applies where and only to the extent that Customer.io processes Company Data that originates from the EEA or that is otherwise subject to EU Data Protection Law on behalf of Company as a processor in the course of providing Services pursuant to the Agreement. 
 
-Part A: General Data Protection Obligations 
+#### Part A: General Data Protection Obligations 
 
-4. Roles and Scope of Processing 
+#### 4. Roles and Scope of Processing 
 
 4.1 Role of the Parties. As between Customer.io and Company, Company is controller of Company Data, and Customer.io shall process Company Data only as a processor acting on behalf of Company. 
 
@@ -78,13 +78,13 @@ Part A: General Data Protection Obligations
 
 4.6 Tracking Technologies. Company acknowledges that in connection with the performance of the Services, Customer.io employs the use of cookies, unique identifiers, web beacons and similar tracking technologies ("Tracking Technologies"). Company shall maintain appropriate notice, consent, opt-in and opt-out mechanisms as are required by Data Protection Laws to enable Customer.io to deploy Tracking Technologies lawfully on, and collect data from, the devices of End Users (defined below) in accordance with and as described in the Customer.io Cookie Statement. 
 
-5. Subprocessing 
+#### 5. Subprocessing 
 
 5.1 Authorized Subprocessors. Company agrees that Customer.io may engage Subprocessors to process Company Data on Company's behalf. The Subprocessors currently engaged by Customer.io and authorized by Company are listed in Attachment A. 
 
 5.2 Subprocessor Obligations. Customer.io shall: (i) enter into a written agreement with the Subprocessor imposing data protection terms that require the Subprocessor to protect the Company Data to the standard required by Data Protection Laws; and (ii) remain responsible for its compliance with the obligations of this DPA and for any acts or omissions of the Subprocessor that cause Customer.io to breach any of its obligations under this DPA. 
 
-6. Security 
+#### 6. Security 
 
 6.1 Security Measures. Customer.io shall implement and maintain appropriate technical and organizational security measures to protect Company Data from Security Incidents and to preserve the security and confidentiality of the Company Data, in accordance with Customer.io's security standards described in this DPA and at https://customer.io/security ("Security Measures"). 
 
@@ -92,11 +92,11 @@ Part A: General Data Protection Obligations
 
 6.3 Company Responsibilities. Notwithstanding the above, Company agrees that except as provided by this DPA, Company is responsible for its secure use of the Services, including securing its account authentication credentials, protecting the security of Company Data when in transit to and from the Services and taking any appropriate steps to securely encrypt or backup any Company Data uploaded to the Services. 
 
-7. Compliance Verification 
+#### 7. Compliance Verification 
 
 7.1 Upon reasonable request, Customer.io will verify its compliance with this DPA, provided that Company shall not exercise this right more than once per year. 
 
-8. International Transfers 
+#### 8. International Transfers 
 
 8.1 Data center locations. Customer.io may transfer and process Company Data anywhere in the world where Customer.io, its Affiliates or its Subprocessors maintain data processing operations. Customer.io shall at all times provide an adequate level of protection for the Company Data collected, transferred, processed, or retained in accordance with the requirements of Data Protection Laws. 
 
@@ -104,25 +104,25 @@ Part A: General Data Protection Obligations
 
 8.3 Alternative Transfer Mechanism. The parties agree that the data export solution identified in Section 8.2 shall not apply if and to the extent that Customer.io adopts an alternative data export solution with Company for the lawful transfer of personal data (as recognized under EU Data Protection Laws) outside of the EEA (“Alternative Transfer Mechanism”), in which event, the Alternative Transfer Mechanism shall apply instead (but only to the extent such Alternative Transfer Mechanism extends to the territories to which personal data is transferred). 
 
-Part B: GDPR Obligations from 25 May 2018 
+#### Part B: GDPR Obligations from 25 May 2018 
 
-9. Additional Security 
+#### 9. Additional Security 
 
 9.1 Confidentiality of processing. Customer.io shall ensure that any person who is authorized by Customer.io to process Company Data (including its staff, agents and subcontractors) shall be under an appropriate obligation of confidentiality (whether a contractual or statutory duty). 
 
 9.2 Security Incident Response. Upon becoming aware of a Security Incident, Customer.io shall notify Company without undue delay and shall provide timely information relating to the Security Incident as it becomes known or as is reasonably requested by Company. 
 
-10. Changes to DPA and Subprocessors. 
+#### 10. Changes to DPA and Subprocessors. 
 
 10.1 Changes to DPA. Customer.io may be required to update this DPA in order to comply with applicable law, and in such case Customer.io will provide reasonable notice of any such updates. 
 
 10.2 Changes to Subprocessors. Customer.io shall (i) provide an up-to-date list of the Subprocessors it has appointed upon written request from Company; and (ii) notify Company (for which email shall suffice) if it adds Subprocessors at least 10 days prior to any such changes. Company may object in writing to Customer.io’s appointment of a new Subprocessor within five (5) calendar days of such notice, provided that such objection is based on reasonable grounds relating to data protection. In such event, the parties shall discuss such concerns in good faith with a view to achieving resolution. If this is not possible, Company may suspend or terminate the Agreement (without prejudice to any fees incurred by Company prior to suspension or termination). 
 
-11. Return or Deletion of Data 
+#### 11. Return or Deletion of Data 
 
 11.1 Upon termination or expiration of the Agreement, Customer.io shall (at Company's election) delete (after providing Company the ability to download, pursuant to the Agreement) all Company Data (including copies) in its possession or control, save that this requirement shall not apply to the extent Customer.io is required by applicable law to retain some or all of the Company Data, which Company Data Customer.io shall securely isolate and protect from any further processing, except to the extent required by applicable law. 
 
-12. Cooperation 
+#### 12. Cooperation 
 
 12.1 The Services provide Company with a number of controls that Company may use to retrieve, correct, delete or restrict Company Data, which Company may use to assist it in connection with its obligations under the GDPR, including its obligations relating to responding to requests from data subjects or applicable data protection authorities. To the extent that Company is unable to independently access the relevant Company Data within the Services, Customer.io shall (at Company's expense) provide reasonable cooperation to assist Company to respond to any requests from individuals or applicable data protection authorities relating to the processing of personal data under the Agreement. In the event that any such request is made directly to Customer.io, Customer.io shall not respond to such communication directly without Company's prior authorization, unless legally compelled to do so. If Customer.io is required to respond to such a request, Customer.io shall promptly notify Company and provide it with a copy of the request unless legally prohibited from doing so. 
 
@@ -130,9 +130,9 @@ Part B: GDPR Obligations from 25 May 2018
 
 12.3 To the extent Customer.io is required under EU Data Protection Law, Customer.io shall (at Company's expense) provide reasonably requested information regarding the Services to enable the Company to carry out data protection impact assessments or prior consultations with data protection authorities as required by law.
  
-Attachment A
+#### Attachment A
 
-List of Customer.io Subprocessors
+#### List of Customer.io Subprocessors
 
 The list of Subprocessors available at https://customer.io/legal/sub-processors/ provide cloud hosting and storage services; content delivery and review services; assist in providing customer support; as well as incident tracking, response, diagnosis and resolution services. 
 
