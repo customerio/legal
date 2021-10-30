@@ -2,189 +2,238 @@
 layout: docs
 title: "Privacy Policy"
 ---
-_Last revised on June 14, 2017, effective as of July 16, 2017_
 
-This privacy policy describes the information Peaberry Software Inc. d/b/a Customer.io and Customer.io Inc. (a Canadian entity) (“we” or “us”) collect from End Users (“you”) of our website (the “Site”) and the information we collect on behalf of our clients who employ our technology to use our email messaging, analytics, and other services (the “Services”). 
+# Peaberry Software Inc. d/b/a Customer.io Privacy Policy
 
-This policy does not apply to third parties that Customer.io does not own or control. Such third parties are not under Customer.io’s control and Customer.io is not responsible for their privacy or security practices.
+_Last revised on [REVISE DATE], effective as of [EFFECTIVE DATE]
+
+Peaberry Software Inc. d/b/a Customer.io (“Customer.io”) works hard to respect your privacy, starting with being transparent about what data we collect and how we use it. This policy describes our information processing practices when you interact with our websites, social media sites and handles, email, and online services. It also describes how we handle information on behalf of our clients (“Clients”), who engage us to provide email marketing optimization and delivery services as described on our Features page. Collectively, this policy refers to our information processing activities as our “Services.”
+
+We also include specific disclosures for residents of the European Economic Area and Switzerland as well as California. 
+
+This Policy applies when you interact with us through our Services. It also applies anywhere it is linked. It does not apply to non-Customer.io websites and mobile applications that may link to the Services or be linked to or from the Services; please review the privacy policies on those websites and applications directly to understand their privacy practices.
 
 Any order forms or additional agreements to which users agree governing the provision of optional Customer.io features shall take precedence over the terms of this Privacy Policy to the extent of any differences, so please read such order forms or additional agreements carefully.
 
-Customer.io participates in and complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Customer.io’s accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks below. In particular, Customer.io remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Customer.io proves that it is not responsible for the event giving rise to the damage.
 
-## Customer.io Site Privacy Policy
+## Information We Collect
 
-We collect, process, and retain information from you and any devices you may use when you use or interact with our Site and Services, and in other ways described below. 
+### Information you give us
 
-We receive and store information you enter on our Site or give us in any other way, including your name, mailing address, phone number, email address, and payment information, as well as company name, and colleagues’ names and email addresses. We collect information about your use of our Site, such as the pages you view and other interactions you have. We receive and store certain types of information whenever you interact with our Site.  Our Site uses “cookies,” tagging and other tracking technologies to help enable us to enhance or personalize your online browsing experience.  This information includes computer and connection information such as statistics on your page views, traffic to and from our Site, referral URL, ad data, your IP address, and device identifiers. This information also may include your browsing history, transaction history, and your web log information.  
+Some of the Services may include features or services that permit you to enter contact information and other information about you. We collect and store any information you, or our Clients, enter on our Services. This includes:
 
-We use your information to help us personalize and continually improve your experience on the Site, including fulfilling requests for information, analyzing and compiling trends and statistics, and communicating with you.  For information about how to manage your information and the choices you have, see how to limit the use of your information below. 
+  •	Contact and demographic information, such as the information you provide when you complete forms or register to use our Services.
 
-### Cookies and Interest-Based Advertising
+  •	Payment information and associated contact information when engaging in a transaction on our site.
 
-Cookies are alphanumeric identifiers transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Like most internet sites, Customer.io uses cookies to enhance our users’ experience on the internet. These cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your name or e-mail address is.
+  •	Email address information when subscribing to our email newsletters.
 
-Most browsers allow you to prevent the browser from accepting new cookies, to be notified when you receive a new cookie, or to disable cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Site may not work or may not work as designed. Note that if you choose to remove cookies, you may remove opt-out cookies that affect your advertising preferences.   
+  •	If you contact us, we may keep a record of that correspondence and any contact information provided.
 
-We partner with third-party advertising companies who also use these tracking tools to provide advertisements on other websites.  These third parties may use these technologies to collect information about you when you use the Site. They may collect information about your online activities over time and across different websites and other online services.  They may also use persistent identifiers to track your Internet usage across other websites in their networks beyond the Site.  They may use this information to provide you with interest-based advertising or other targeted content.  While we do not knowingly provide these entities with information that personally identifies you such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us.
+### Information our Clients give us about you
 
-Some content or applications on the Site may be served by unaffiliated third parties.  We do not control these third parties’ tracking technologies or how they may be used. We are not responsible for the content or privacy practices on any website not operated by us to which our Site links or that links to our Site. 
+•	Contact and demographic information, including email address.
 
-Your browser or device may include “Do Not Track” functionality.  Our information collection and disclosure practices, and the choices that we provide to visitors, will continue to operate as described in this privacy notice, whether or not a Do Not Track signal is received. 
+•	Device information collected from third-party API integrations. For example, Clients can use third-party integrations to record the Client website pages you visit and upload that information to our systems. 
 
-We use Google Analytics, a web analytics service provided by Google, Inc., on our Site. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Site, compile reports on the Site’s activity, and provide other services related to Site activity and usage.  The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website.  The Site does not use Google Analytics to gather information that personally identifies you.  The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies. To learn more about Google’s partner services and to learn how to opt out of tracking of analytics by Google [click here](https://www.google.com/policies/privacy/partners/).  
+•	Information about how you interact with Clients’ newsletters, including whether you open or click links in any correspondence.
 
-Many of the third party advertisers that place tracking tools on our Site are members of programs that offer you additional choices regarding the collection and use of your information.  You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the Network Advertising Initiative and the Digital Advertising Alliance.
+•	Any other information that Clients choose to upload to our systems, such as notes. 
 
-Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings.  
+•	Inferences about you that Clients derive from the information they give us, including which audience segments you are a part of. Clients use this information to send you communications that are more likely to be relevant to you.
 
-Please note that opting-out of advertising networks services does not mean that you will not receive advertising on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs.  It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.
+### Information We Collect Automatically
 
-## Collection, Use, and Disclosure of End Users’ Information Through Our Services
+When you interact with the Services, certain information about your use of our Services is collected automatically. This includes:
 
-This section describes our policies for handling information about End Users provided to us by our clients using our Services or other sources of their choosing. We provide our clients with the ability to create profiles of their End Users in order to effectively communicate with them via marketing communications tools like email, analytics services, and the ability to export information, at our client’s direction, to other applications. To do this, our clients integrate our technology into their applications, websites, or other online services.
+•	Details of your visits to our site and information generated in the course of the use of our site (including the timing, frequency, and pattern of service use) including, but not limited to, traffic data, location data, weblogs and other communication data, the resources that you access, and how you reached our site.
 
-Our clients’ collection, use, and disclosure of data is separately governed by their privacy policies. Our clients may collect information about their users directly; in that case, each of our clients is responsible for ensuring that their data collection follows their privacy policies and terms of use.
+•	Details regarding the device you use to access our Services, including, but not limited to, your IP address, operating system, and browser type.
 
-### Collection
+•	Information about how you interact with our ads and newsletters, including whether you open or click links in any correspondence.
 
-In the course of providing Services to our clients, Customer.io collects personally identifiable information (“PII”) about End Users of our clients. Customer.io uses this information to provide our Services to our clients.
+Much of this information is collected through cookies, web beacons, and other tracking technologies, as well as through your web browser or device. Customer.io relies on partners to provide many features of our sites and Services using data about your use of Customer.io and other sites. 
 
-PII is information that is linked or linkable to you. The PII we collect includes name, address, phone number, or email address, which you may have provided to our client. Customer.io takes precautions not to collect, and, if discovered, will not retain, passwords, credit card, and certain other information submitted through our services. 
+Our Cookie Declaration contains a list of these partners.
 
-We may automatically collect information about your use, navigation of, and interactions with our clients’ applications, websites, or other online services when our client has installed our technology on its properties. 
+## How We Use and Protect Your Information
 
-Cookies that we set on our clients’ websites expire after three years and the expiration date updates every time you encounter our server. Customer.io retains standard web log data 5 years after you visit a client’s website, and aggregations and reports for up to 10 years after you visit a client’s website.
+We may use the information we collect from you for the following purposes:
 
-### Use and Disclosure
+•	To provide you with our products and services, including to take steps to enter into a contract for sale or for services, process payments, fulfill orders, and send service communications.
 
-We collect information about End Users at our clients’ direction and may append information to End Users’ profiles from third party sources. We do this to provide our Services, which enable our clients to optimize their communications with, and understanding of, their End Users. We consider our clients’ End Users’ information to be confidential to that client. Accordingly, we do not disclose End User information to unaffiliated third parties except in response to our clients’ explicit instructions, as provided for in an agreement between us and our client, or as otherwise described in this Privacy Policy (for example, as necessary to respond to legal requirements). 
+•	Create custom audiences on social media sites.
 
-Customer.io may provide services or sell products jointly with affiliated businesses. We may share End User information collected from our clients that is related to such transactions with those affiliated businesses. We require our affiliates, via contract, to provide the same level of privacy protection as set forth in this policy and they do not have the right to share or use PII for any purpose other than for an authorized transaction.
+•	To provide you with the best service and improve and grow our business, including by understanding our customer base and purchasing trends and understanding the effectiveness of our marketing.
 
-If we ever were to engage in any onward transfers of your data with third parties for a purpose other than which it was originally collected or subsequently authorized, we would provide you with an opt-out choice to limit the use and disclosure of your personal data.
+•	To understand how our Services are being used, track site performance, and make improvements.
 
-## Collection, Use, and Disclosure of Information from Our Clients
+•	To deliver ads about our Services to you around the web and measure their effectiveness.
+Most businesses that have an internet presence use “targeted” advertising, which is also known as “personalized,” “interest-based,” or “behavioral” advertising. We use it too, and because we respect your privacy we would like to explain why. We use information we collect about you when you visit our website or interact with our emails to advertise to you on other websites and around the web, including paid search results and social media. We partner with companies that collect this information for us using cookies, JavaScript, and similar web technologies. The information we collect is granular, such as how you navigate through our website and how you interact with the different elements on each page. We link that information to an ID number that represents you (or more accurately, the device you use to interact with us), which is often a random string of alphanumeric characters. However, that ID and the information associated with it does not identify you personally. Our goal in collecting this information is to advertise more effectively to people who we think are interested in our services, such as by serving our ad on social media to people who have previously visited our website. If we did not use targeted advertising, we would end up serving ads to many people who have no interest in or need to use our services. Please see the “Your Options And Rights Regarding Your Information” below to learn how you can tell us to stop collecting data for targeted advertising purposes. 
 
-This section describes our policies for our clients’ use of the Customer.io Site and Services.
+•	To detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal, and to comply with legal requirements regarding the provision of products and services.
 
-### Information Clients Provide to Us 
+## How We Secure the Information We Collect From or About You
 
-We receive and store any information clients enter on the Site, through the Services, or provide to us in any other way. Clients can choose not to provide us with certain information, but then they may not be able to take advantage of many of our features. We use clients’ PII for such purposes as responding to their requests for Services, customizing the content they see, communicating with them about our products, and marketing our Services to them.
+We use a combination of physical, technical, and administrative safeguards to protect the information we collect through the Services. While we use these precautions to safeguard your information, we cannot guarantee the security of the networks, systems, servers, devices, and databases we operate or that are operated on our behalf.
 
-In order for clients to use all of our features, they must register with Customer.io. We require clients’ e-mail addresses and passwords during the registration process.
+## How We Share Your Information
 
-Further information may be required if clients choose to purchase paid components of the Services, such as credit card and billing information. Customer.io uses third party partners for credit card processing who may require and store your credit card and billing information. 
+•	**Service Providers:**  We engage vendors to perform specific business functions on our behalf, and they may receive information about you from us or collect it directly. These vendors are obligated by contract to use information that we share only for the purpose of providing these business function, which include: 
 
-### E-mail Communications
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o	Supporting Service functionality, such as vendors that support customer service and customer relationship management, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; application development, postal mailings, and communications (email, fax).
 
-If a client purchases Customer.io’s online tools to collect and analyze user and usage data for its websites, applications, or services, Customer.io will communicate with it about the services it purchases by e-mail. Clients consent to receiving such confirmations by e-mail. If clients contact us via e-mail, we may retain a record of their contact information and any information they provide us in their messages to respond to them. We may receive a confirmation when clients open an e-mail from Customer.io.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o	Auditing and accounting firms, such as firms that assist us in the creation of our financial records.
 
-We may also send e-mails with news or promotions. If clients do not want to receive news or promotional e-mail from us, please contact us at privacy@customer.io (this will not affect e-mails related to certain important, legal, or service-related messages such as outage information). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o	Professional services consultants, such as firms that perform analytics, assist with improving our business, provide &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; legal services, or supply project-based resources and assistance.
 
-### Information From Other Sources
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o	Analytics and marketing services, including entities that analyze traffic on our online properties and assist with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; identifying and communicating with potential customers. 
 
-To improve our Services, we may receive information about clients from other sources and add it to our account information. Like the information clients provide to us, we do not share this information with anyone except authorized third parties in connection with providing clients with our Services. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o	Security vendors, such as entities that assist with security incident verification and response, service notifications, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and fraud prevention.
 
-We do not disclose clients’ information to unaffiliated third parties without clients’ consent, or as otherwise described in this Privacy Policy (for example, as necessary to respond to legal requirements).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o	Information technology vendors, such as entities that assist with website design, hosting and maintenance; data and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; software storage; and network operation.
 
-## Other Important Information
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o	Marketing vendors, such as entities that support distribution of marketing emails.
 
-### Your California Privacy Rights
+The service providers we use to directly support the delivery of our Services are listed here. 
 
-If you are a California resident, California law permits you to request certain information regarding the disclosure of your PII by us and our related companies to third parties for the third parties' direct marketing purposes.  To make such a request, please send your request, by mail or email, to the addresses listed at the end of this policy.
+•	**Third parties involved in advertising:** We partner with companies that assist us in advertising our Services to others who may be interested in the Services. We also partner with other companies who use cookies to display interest-based advertising to you on our Services. These companies may use tracking technologies on our website to collect or receive information from the Services and elsewhere on the internet and use that information to provide measurement services and target ads. While Customer.io will not share information that identifies you by name with unaffiliated other companies for their own uses, such other companies may, with sufficient data from other sources, be able to personally identify you.
 
-### Agents
+•	Other parties when required by law or as necessary to protect the Services: We may disclose your information to third parties in order to protect the legal rights, safety, and security of Customer.io, our corporate parents, affiliates, and subsidiaries, and the users of our Services; enforce our Terms of Service; prevent fraud (or for risk management purposes); and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity.
 
-We employ other companies and people to perform tasks on our behalf and need to share client and End User information with them to provide products and services. Examples include billing, processing payments, providing marketing assistance, and providing customer service. Our agents use the same level of privacy protection as we do. Unless we tell you differently, Customer.io does not share, and Customer.io’s agents do not have any right to use, PII collected from our Site and Services beyond what is necessary to assist us.
+## Additional Information About our Data Collection and Sharing Practices
 
-### Business Transfers
+### Sharing of De-identified or Aggregated Data
 
-In some cases, we may change our ownership or corporate organization, or may choose to buy or sell assets. End User information may be transferred to another entity, its affiliates, or service providers in connection with the transaction. You acknowledge that such transfers may occur, and that Customer.io or its successor organization may continue to use your information as set forth in this policy.
+We may share aggregated or de-identified data at our discretion.
 
-### Protection of Customer.io and Others
+### Combination of Information
 
-We may release PII when we in our sole discretion believe in good faith that release is necessary or appropriate to comply with the law, enforce or apply our conditions of use and other agreements, or protect the rights, property, or safety of Customer.io, our employees, our clients, or others.  We also may be required to disclose an individual’s PII in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+We may combine information from the Services together and with other information we obtain from our business records. 
 
-### Information Security
+### Change of Ownership or Corporate Organization
 
-Clients’ Customer.io account information is protected by a password for your privacy and security as well as other reasonable security measures. We use reasonable safeguards to protect the security of clients’ information during transmission, including by encrypting all of the information clients input. Only employees or agents who need PII to perform a specific job are granted access to it. All of our employees are kept up to date on our privacy and security practices. 
+We may transfer to another entity or its affiliates or service providers some or all information about you in connection with, or during negotiations of, any merger, acquisition, sale of assets or any line of business, change in ownership control, or financing transaction. We cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Policy.
 
-While Customer.io uses commercially reasonable means to secure information provided to us, we do not guarantee that such information will not be improperly accessed, disclosed, or destroyed by breach of any of our safeguards. Clients and End Users are responsible for the security of their information that is transmitted to us or that is viewed, downloaded, or otherwise accessed when using unencrypted, public or otherwise unsecured networks. 
+### Cross-border Transfer of Data
 
-### Accessing Information 
+If you use our Services outside of the United States, you understand that we may collect, process, and store your information in the United States and other countries. The laws in the U.S. regarding information may be different from the laws of your state or country. Any such transfers will comply with safeguards as required by relevant law. By using the Services, you consent to the collection, international transfer, storage, and processing of your data.
 
-You are able to access, add to, update, correct, amend, or delete certain information about you, including PII. When you update information, however, we often maintain a copy of the unrevised information in our records. A client may deactivate its Customer.io account by following the deactivation process set forth on the Site. Some information may remain in our records after account deletion. Please contact us at privacy@customer.io if you have questions or concerns about accessing, correcting, or deleting your PII. 
+### Our Practices Regarding Information Belonging to Children
 
-EU and Swiss data subjects have a right to access their information. Please see the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks section below.
+The Services are intended for users age thirteen and older. Customer.io does not knowingly collect information from children. If we discover that we have inadvertently collected information from anyone younger than the age of 13, we will delete that information.
 
-### Conditions of Use
+### Sharing of Medical or Health Information
 
-Your use of the Site and Services and any possible dispute over privacy are subject to this Privacy Policy and our Terms of Service, including limitations on damages, dispute resolution, and application of New York state law.
+To the extent that we receive protected health information about you, that information is subject to electronic disclosure to the extent permitted by applicable law.
 
-### International Users (Except for EU and Swiss Data Subjects)
+## Your Options and Rights Regarding Your Information
 
-If you use our Websites outside of the United States, you understand and consent to the transfer of your personal information to, and the collection, processing, and storage of your personal information in, the United States and elsewhere.  The laws in the U.S. and these countries regarding personal information may be different than the laws of your state or country.
+_Please note that if you make a request to exercise your rights regarding information our Clients collected about you, then we will direct your inquiry to that Client because it is their responsibility to respond to you under the law._
 
-### Use of Customer.io’s Site by Children
+Visit the “Sign In” page to update your contact information and payment method.
 
-Customer.io’s Site is not intended for children under the age of 18. Accordingly, we will not knowingly collect or use any PII from children that we know to be under the age of 18.  If we become aware of PII in our database that was collected from a child under 18, we will delete such information. 
+If at any time you would like to unsubscribe from receiving future emails, you can click the unsubscribe link at the bottom of any email, or email us at privacy@customer.io and we will promptly remove you from all correspondence.
 
-### Changes to this Privacy Policy
-Customer.io may amend this Privacy Policy. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes to our privacy policy, we will notify you by sending you an email thirty (30) days before the changes take effect and by posting a notice on client dashboards on the Site.
+You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the Network Advertising Initiative, the Digital Advertising Alliance, and the European Interactive Digital Advertising Initiative. Similarly, you can learn about your options to opt out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device.
 
-## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks
+Most web browsers automatically accept cookies but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Services may not be available, work, or work as designed. You may also be able to opt out of or block tracking by interacting directly with the other companies who conduct tracking through our Services.
 
-### Definitions
+Please note that opting out of advertising networks’ services or modifying cookie behavior via your device’s controls does not mean that you will not receive advertising while using our Services or on other websites, nor will it prevent the receipt of interest-based advertising from other companies that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms. If you delete your cookies, you may also delete your opt-out preferences.
 
-For purposes of this section only, the following definitions shall apply:
+You may choose to activate a “do-not-track” signal via your browser. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently does not take action in response to these signals. For more information on “do-not-track,” visit http://www.allaboutdnt.com.
 
-“Agent” means any third party that collects or uses personal information under the instructions of, and solely for, Customer.io or to which Customer.io discloses personal information for use on Customer.io’s behalf.
+## Your California Privacy Rights
 
-“Personal information” means any information or set of information that identifies or could be used by or on behalf of Customer.io to identify (together with other information) a living individual. Personal information does not include information that is anonymized or aggregated. For the purposes of data received from Switzerland under the Swiss-U.S. privacy shield, personal information also includes ideological views or activities, information on social security measures or administrative or criminal proceedings and sanctions.
+Persons with disabilities may obtain this notice in alternative format upon request by contacting us at privacy@customer.io.
 
-“Sensitive information” means any personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, information that concerns health or sex life, and information about criminal or administrative proceedings and sanctions.
+### California Shine the Light
 
-### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+Residents of the State of California have the right to request information from Customer.io regarding other companies to whom the company has disclosed certain categories of information during the preceding year for those companies’ direct marketing purposes. If you are a California resident and would like to make such a request, please email privacy@customer.io or write to us at 9450 SW Gemini Dr., Suite 43920, Beaverton, Oregon 97008-7105..
 
-Peaberry Software, Inc. d/b/a Customer.io and Customer.io Inc. (collectively “Customer.io”) participates in and complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland to the United States, respectively. Customer.io has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).  
+### California Consumer Privacy Act
 
-### Principles
+The California Consumer Privacy Act (“CCPA”) provides California residents with rights to receive certain disclosures regarding the collection, use, and sharing of personal information, as well as rights to know/access, delete, and limit sharing of personal information. To the extent that we collect personal information that is subject to the CCPA, that information, our practices, and your rights are described below.
 
-**Notice**: Customer.io receives personal information about individuals in the EEA and Switzerland collected by Customer.io and its clients, and personal information about clients in the EEA and Switzerland. The types of information collected and the uses of that information are described in the privacy policy above.
+**Right to Notice at Collection Regarding the Categories of Personal Information Collected**
 
-Customer.io will subject all personal information received via the EU-U.S. and Swiss-U.S. Privacy Shields to these Principles.  
+You have the right to receive notice of the categories of personal information we collect, and the purposes for which those categories of personal information will be used. The following table summarizes the categories of personal information we collect, the categories of sources of that information, and whether we disclose or sell that information to service providers or third parties, respectively. The categories we use to describe the information are those enumerated in the CCPA, and additional information about the specific types of personal information we collect are described above in “Information We Collect.” We collect this personal information for the purposes described in the “How We Use and Protect Your Information” section above.
 
-**Choice**: Customer.io will offer individuals the opportunity to choose whether their information is to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. An individual may opt-out of such uses of their personal information by contacting us at the address given below. Customer.io offers an opt-out to individuals whose personal information is disclosed to non-agent third parties. Additionally, Customer.io will not use sensitive personal information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual unless Customer.io has received the individual’s affirmative and explicit consent (opt-in). Customer.io will treat as sensitive any personal information received from a third party where the third party identifies and treats it as sensitive.
+|. 
+You have the right to receive notice of the categories of personal information we collect, and the purposes for which those categories of personal information will be used. The following table summarizes the categories of personal information we collect, the categories of sources of that information, and whether we disclose or sell that information to service providers or third parties, respectively. The categories we use to describe the information are those enumerated in the CCPA, and additional information about the specific types of personal information we collect are described above in “Information We Collect.” We collect this personal information for the purposes described in the “How We Use and Protect Your Information” section above.
 
-**Data Integrity**: Customer.io will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Customer.io will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete and current.
+| **Category of Personal Information** | **Categories of Sources** | **Categories of Entities to which We Disclose Personal Information** | **Categories of Entities to which We Sell Personal Information** |
+|---|---|---|---|
+| Personal Identifiers |You; Clients; Customer.io’s social media pages | Service providers | None |
+| Commercial Information | You | Service Providers | None |
+| Geolocation | You; Customer.io’s analytics partners | Service Providers |Analytics and advertising partners (but only with respect to information that Customer.io collects directly, not from Clients)|
+| Audio, electronic, visual, thermal, olfactory, or similar information, specifically call recordings | You | Service Providers | None |
+| Internet or Other Electronic Network Activity Information | You; Clients (via third-party integrations they choose); Customer.io’s analytics partners | Service Providers | None |
+| Inferences | Clients | Service Providers | None |
 
-**Transfers to Agents**: Customer.io contracts with third parties who perform business functions on our behalf. Customer.io uses these third parties to assist with activities such as billing, processing payments, providing marketing assistance, and providing customer service. These entities may have access to personal information if needed to perform their functions for Customer.io.
+We may use any of the categories of information listed above for other business or operational purposes compatible with the context in which the personal information was collected.
 
-For information received under the Privacy Shield, Customer.io will require its agents to safeguard personal information consistent with this Policy by contract, obligating the agent to provide at least the same level of protection as is required by the Privacy Shield Principles.  
+*Note on “Selling”: The CCPA defines “sale” and “personal information” broadly to include the information transfer between a website or app and third party tracking technologies. For this reason, Customer.io “sells” personal information.
 
-Under certain circumstances, Customer.io may bear liability for onward transfers of personal data where its agent processes personal data inconsistent with the Privacy Shield Principles, unless Customer.io proves that it is not responsible for the event giving rise to the damage.
+**Right to Opt Out of Sale of Personal Information to Third Parties**
 
-**Access and Correction**: Upon request, Customer.io will grant individuals reasonable access to personal information that it holds about them. In addition, Customer.io will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. An individual may request to access their information, or otherwise correct, amend, or delete their information by contacting us at the address given below.
+You have the right to opt out of any sale of your personal information by Customer.io to third parties. To exercise your right to opt out of the sale of your personal information, please visit our “Do Not Sell My Personal Information” webpage. 
 
-**Security**: See “Information Security,” above.
+Please note that your right to opt out does not apply to our sharing of personal information with service providers, who are parties we engage to perform a function on our behalf and are contractually obligated to use the personal information only for that function.
 
-### Enforcement
+We may also disclose information to other entities who are not listed here when required by law or to protect our Company or other persons, as described in this Privacy Policy.
 
-Customer.io will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that Customer.io determines is in violation of this policy will be subject to disciplinary action.
+**Right to Know and Request Access to and Deletion of Personal Information**
 
-Customer.io is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+You have the right to request access to personal information collected about you and information regarding the source of that information, the purposes for which we collect it, and the third parties and service providers with whom we share it. You also have the right to request in certain circumstances that we delete personal information that we have collected directly from you. We may have a reason under the law why we do not have to comply with your request, or why we may comply with it in a more limited way than you anticipated. If we do, we will explain that to you in our response.
 
-### Dispute Resolution
+You may submit a request to exercise your rights to know/access or delete your personal information through one of two means:
 
-In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Customer.io commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Customer.io at privacy@customer.io or using the contact information below. Customer.io will investigate and attempt to resolve complaints regarding use and disclosure of personal information by reference to the principles in this policy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)	By filling out a Consumer Data Request Form available here.
 
-Customer.io has further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2)	By contacting us using the information below.
 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+In order to process your request to know/access or delete personal information we collect, disclose, or sell, we must verify your request. We do this by asking you to provide personal identifiers we can match against information we may have collected from you previously and confirm your request using the email or telephone account stated in the request.
 
-## Questions or Concerns
+**Authorized Agent**
 
-If you have any questions or concerns regarding privacy at Customer.io, please send us a detailed message to [privacy@customer.io](mailto:privacy@customer.io) or to Peaberry Software Inc. at 921 SW Washington St, Suite #820, Portland, OR 97205.  Your privacy is important to us and we will make every effort to resolve your concerns.
+You may authorize another individual or a business registered with the California Secretary of State, called an authorized agent, to make requests on your behalf. We will require verification of the authorized agent’s identity and confirmation that you have authorized them to act on your behalf. 
 
-Last Updated: June 14, 2017
+Customer.io does not offer any rewards programs or incentives for the collection or sharing of data at this time.
+
+**Special Information for Nevada Residents**
+
+Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to other companies who will sell or license their information to others. At this time, Customer.io does not engage in such sales. If you are a Nevada resident and would like more information about our data sharing practices, please email privacy@customer.io.
+
+**Information for Individuals Located in the EEA and Switzerland**
+
+We process “Personal Data,” as that term is defined in the EU General Data Protection Regulation, on the following legal bases: (1) with your consent; (2) as necessary to perform our agreement to provide Services; and (3) as necessary for our legitimate interests in providing the Services where those interests do not override your fundamental rights and freedom related to data privacy. Information we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or subcontractors maintain facilities, as described above.
+
+Users that reside in the European Economic Area (“EEA”) or Switzerland have the right to lodge a complaint about our data collection and processing actions with the supervisory authority concerned. Contact details for data protection authorities are available here.
+
+If you are a resident of the EEA or Switzerland, you are entitled to certain rights. Please note: In order to verify your identity, we may require you to provide us with information prior to accessing any records containing information about you. These rights include the ability:
+
+•	to request from us access to information held about you.
+
+•	to ask for the information we hold about you to be rectified if it is inaccurate or incomplete.
+
+•	to ask for data to be erased if the data is no longer necessary for the purpose for which it was collected, you withdraw consent and no other legal basis for processing exists, or you believe your fundamental rights to data privacy and protection outweigh our legitimate interest in continuing the processing.
+
+•	to request that we restrict our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or processing your data for purposes of scientific or historical research and statistics.
+
+To submit a request to exercise your rights, please contact us at privacy@customer.io. We may have a reason under the law why we do not have to comply with your request, or may comply with it in a more limited way than you anticipated. If we do, we will explain that to you in our response.
+
+**Changes to This Policy**
+
+We may make changes to this Policy from time to time. We will post any changes here, and such changes will become effective when they are posted. Your continued use of our Services following the posting of any changes will mean you consent to those changes.
+
+For questions about our privacy practices, contact us at:
+
+Peaberry Software Inc. d/b/a Customer.io\
+9450 SW Gemini Dr., Suite 43920, Beaverton, Oregon 97008-7105.\
+[Phone Number]\
+Email: compliance@customer.io
+
+
+
+
