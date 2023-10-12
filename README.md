@@ -1,4 +1,4 @@
 legal
 =====
 
-Legal Docs for Customer.io
+Legal Docs for Customer.io by Bri
